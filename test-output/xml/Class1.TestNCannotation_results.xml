@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class2/enabledDiabled.java"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+    <properties></properties>
+
+
+
+            <testcase
+                name="secondTestCases"
+                time="0.000"
+                classname="Class1.TestNCannotation">
+            </testcase>
+            <testcase
+                name="firstTestCase"
+                time="0.000"
+                classname="Class1.TestNCannotation">
+            </testcase>
+            <testcase
+                name="thirdTestCase"
+                time="0.000"
+                classname="Class1.TestNCannotation">
+            </testcase>
+</testsuite>

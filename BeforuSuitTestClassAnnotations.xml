@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class3/Annotations.java">
+      <classes>
+          <class name="Class3.Annotations"></class>
+          <class name="Class2.DependsOn"></class>
+      </classes>
+        
+    </test>
+    
+    <test name="myTest2">
+        <classes>
+            <class name="Class3.Annotations"></class>
+        </classes>
+    </test>
+</suite>

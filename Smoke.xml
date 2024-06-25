@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Group Based Execution">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class2/DependsOn.java">
+        <groups>
+            <run>
+                <include name="Smoke"></include>
+            </run>
+        </groups>
+        <packages>
+            <package name="Class2"></package>
+            <package name="Class1"></package>
+        </packages>
+
+    </test>
+</suite>

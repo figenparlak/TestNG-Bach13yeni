@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG-Bach13yeni"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.002">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Atest"
+                time="0.001"
+                classname="deneme.deneme1">
+            </testcase>
+            <testcase
+                name="Btest"
+                time="0.001"
+                classname="deneme.deneme1">
+            </testcase>
+</testsuite>

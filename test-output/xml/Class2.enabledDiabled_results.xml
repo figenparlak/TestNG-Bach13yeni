@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+    <properties></properties>
+
+
+
+            <testcase
+                name="secondtTest"
+                time="0.000"
+                classname="Class2.enabledDiabled">
+            </testcase>
+            <testcase
+                name="thirdtTest"
+                time="0.000"
+                classname="Class2.enabledDiabled">
+            </testcase>
+</testsuite>

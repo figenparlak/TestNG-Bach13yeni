@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG-Bach13yeni"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+    <properties></properties>
+
+
+
+            <testcase
+                name="login"
+                time="0.000"
+                classname="Class2.DependsOn">
+            </testcase>
+            <testcase
+                name="verificationOfDashboardPage"
+                time="0.000"
+                classname="Class2.DependsOn">
+            </testcase>
+</testsuite>

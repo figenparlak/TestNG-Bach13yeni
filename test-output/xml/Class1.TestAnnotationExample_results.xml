@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.253">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createAccountText"
+                time="0.039"
+                classname="Class1.TestAnnotationExample">
+            </testcase>
+            <testcase
+                name="testingForInvalidCredantial"
+                time="0.214"
+                classname="Class1.TestAnnotationExample">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class2/HardAssertions.java">
+       <groups>
+           <run>
+               <include name="Regression"></include>
+           </run>
+       </groups>
+        <classes>
+            <class name="Class2.SoftAssertions"></class>
+        </classes>
+
+
+    </test>
+</suite>

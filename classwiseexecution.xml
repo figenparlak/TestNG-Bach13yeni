@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Enable And Disable">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/muham/IdeaProjects/TestNG-Bach13yeni/src/test/java/Class2/enabledDiabled.java">
+ <classes>
+     <class name="Class2.enabledDiabled"></class>
+     <class name="Class1.TestNCannotation"></class>
+ </classes>
+    </test>
+</suite>

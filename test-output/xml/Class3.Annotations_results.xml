@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="myTest2"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Atest"
+                time="0.000"
+                classname="Class3.Annotations">
+            </testcase>
+            <testcase
+                name="Btest"
+                time="0.000"
+                classname="Class3.Annotations">
+            </testcase>
+</testsuite>
